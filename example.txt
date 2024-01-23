@@ -1,0 +1,16 @@
+<html>
+	<head> 
+	<title>Boulder County</title> 
+	</head>
+	<body>
+		<h1>Boulder County</h1>
+		<h2>Boulder County Launching Initiative Soil Health</h2>
+		<p>Soil Health<stong>text</strong>.</p>
+		<img src=https://www.vmcdn.ca/f/files/longmontleader/images/boulder-county/20240119soil.jpg;w=960>
+
+		<h2>Local Farmers and Ranchers</h>
+		<p>Longmont Leader Staff</p>
+		
+		<a href="https://www.longmontleader.com/local-news/boulder-county-launching-11m-initiative-to-improve-soil-health-8133949"><em>link to article</em></a>
+	</body>
+	</html>
