@@ -1,0 +1,33 @@
+:root
+{
+ background-color: rgb(25, 210, 204);
+ font-family: garamond; 
+}
+*
+{
+    color: white;
+    text-align: center;
+}
+h1
+{
+    font-size: calc(12pt + 4vw);
+}
+nav
+{
+    border: 7 px white;
+}
+section
+{
+    border: 5px white;
+    margin: 5px;
+    margin-top: 50px;
+}
+.date
+{
+    color: rgb(255, 238, 0);
+}
+ul
+{
+    list-style: none;
+    padding-left: 0px;
+}
