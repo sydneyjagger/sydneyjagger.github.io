@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+    <link rel="stylesheet" href="https://sydneyjagger.github.io/css/style.css">
+  </head>
+  <body>
+<nav>
+    <h1>Edna Mode</h1>
+    <ul>
+        <li><a href=index.html#contactinfo>Contat Info</a></li>
+        <li><a href=index.html#education>Education</a></li>
+        <li><a href=index.html#expereice>Expereince</a></li>
+        <li> <a href=skills.html#skills>Skills</a></li>
+      </ul>
+    </nav>
+    <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+    <li>Ability to create super suits.</li>
+    <li>Keen eye for detail</li>
+    <li>Organized</li>
+    </ul>
+    </section>
+  </body>
+</html>
